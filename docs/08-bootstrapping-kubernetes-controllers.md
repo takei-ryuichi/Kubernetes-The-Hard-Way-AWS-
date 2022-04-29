@@ -135,7 +135,7 @@ kube-apiserver.serviceのsystemdのユニットファイルを生成します。
 以下のコマンドで、環境変数を定義します。
 
 
-KUBERNETES_PUBLIC_ADDRESS=[事前確認の出力結果](https://github.com/takei-ryuichi/Kubernetes-The-Hard-Way-AWS-/blob/main/docs/15-cleanup.md)
+KUBERNETES_PUBLIC_ADDRESS=[事前確認の出力結果](https://github.com/takei-ryuichi/Kubernetes-The-Hard-Way-AWS-/blob/main/docs/08-bootstrapping-kubernetes-controllers.md#%E4%BA%8B%E5%89%8D%E7%A2%BA%E8%AA%8D)
 
 
 ```
