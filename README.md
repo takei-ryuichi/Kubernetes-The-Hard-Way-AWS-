@@ -49,17 +49,17 @@ Kubernetes The Hard Wayでは、コンポーネント間のエンドツーエン
         <li><a href=https://github.com/takei-ryuichi/Kubernetes-The-Hard-Way-AWS-/blob/main/docs/01-prerequisites.md target=”_blank”>01-前提条件</a>
         <li><a href=https://github.com/takei-ryuichi/Kubernetes-The-Hard-Way-AWS-/blob/main/docs/02-client-tools.md target=”_blank”>02-クライアントツールのインストール</a>
         <li><a href=https://github.com/takei-ryuichi/Kubernetes-The-Hard-Way-AWS-/blob/main/docs/03-compute-resource.md target=”_blank”>03-EC2でComputing Resourceをプロビジョニング</a>
-        <li><a href= target=”_blank”>04-認証局(CA)のプロビジョニングとTLS証明書の生成</a>
-        <li><a href= target=”_blank”>05-認証用kubeconfigの生成</a>
-        <li><a href= target=”_blank”>06-暗号化の設定とキーの生成</a>
-        <li><a href= target=”_blank”>07-etcdの起動</a>
-        <li><a href= target=”_blank”>08-Kubernetesコントロールプレーンの起動</a>
-        <li><a href= target=”_blank”>09-ワーカーノードの起動</a>
-        <li><a href= target=”_blank”>10-リモートアクセス用のkubectl設定</a>
-        <li><a href= target=”_blank”>11-クラスタ内ネットワークの設定</a>
-        <li><a href= target=”_blank”>12-DNSクラスタアドオンの導入</a>
-        <li><a href= target=”_blank”>13-スモークテスト</a>
-        <li><a href= target=”_blank”>14-crictlを使用してワーカーノードのイメージ・ポッド・コンテナをチェックする</a>
-        <li><a href=15-後片付け.html target=”_blank”>15-後片付け</a>
+        <li><a href=https://github.com/takei-ryuichi/Kubernetes-The-Hard-Way-AWS-/blob/main/docs/04-certificate-authority.md target=”_blank”>04-認証局(CA)のプロビジョニングとTLS証明書の生成</a>
+        <li><a href=https://github.com/takei-ryuichi/Kubernetes-The-Hard-Way-AWS-/blob/main/docs/05-kubernetes-configuration-files.md target=”_blank”>05-認証用kubeconfigの生成</a>
+        <li><a href=https://github.com/takei-ryuichi/Kubernetes-The-Hard-Way-AWS-/blob/main/docs/06-data-encryption-keys.md target=”_blank”>06-暗号化の設定とキーの生成</a>
+        <li><a href=https://github.com/takei-ryuichi/Kubernetes-The-Hard-Way-AWS-/blob/main/docs/07-bootstrapping-etcd.md target=”_blank”>07-etcdの起動</a>
+        <li><a href=https://github.com/takei-ryuichi/Kubernetes-The-Hard-Way-AWS-/blob/main/docs/08-bootstrapping-kubernetes-controllers.md target=”_blank”>08-Kubernetesコントロールプレーンの起動</a>
+        <li><a href=https://github.com/takei-ryuichi/Kubernetes-The-Hard-Way-AWS-/blob/main/docs/09-bootstrapping-kubernetes-workers.md target=”_blank”>09-ワーカーノードの起動</a>
+        <li><a href=https://github.com/takei-ryuichi/Kubernetes-The-Hard-Way-AWS-/blob/main/docs/10-configuring-kubect.md target=”_blank”>10-リモートアクセス用のkubectl設定</a>
+        <li><a href=https://github.com/takei-ryuichi/Kubernetes-The-Hard-Way-AWS-/blob/main/docs/11-pod-network-routes.md target=”_blank”>11-クラスタ内ネットワークの設定</a>
+        <li><a href=https://github.com/takei-ryuichi/Kubernetes-The-Hard-Way-AWS-/blob/main/docs/12-dns-addon.md target=”_blank”>12-DNSクラスタアドオンの導入</a>
+        <li><a href=https://github.com/takei-ryuichi/Kubernetes-The-Hard-Way-AWS-/blob/main/docs/13-smoke-test.md target=”_blank”>13-スモークテスト</a>
+        <li><a href=https://github.com/takei-ryuichi/Kubernetes-The-Hard-Way-AWS-/blob/main/docs/14-crictl-test.md target=”_blank”>14-crictlを使用してワーカーノードのイメージ・ポッド・コンテナをチェックする</a>
+        <li><a href=https://github.com/takei-ryuichi/Kubernetes-The-Hard-Way-AWS-/blob/main/docs/15-cleanup.md target=”_blank”>15-後片付け</a>
     </ul>
 </nav>
