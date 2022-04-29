@@ -132,10 +132,11 @@ echo ${INTERNAL_IP}
 
 
 kube-apiserver.serviceのsystemdのユニットファイルを生成します。
+以下のコマンドで、環境変数を定義します。
 
-```
+
 KUBERNETES_PUBLIC_ADDRESS=[事前確認の出力結果](https://github.com/takei-ryuichi/Kubernetes-The-Hard-Way-AWS-/blob/main/docs/15-cleanup.md)
-```
+
 
 ```
 cat <<EOF | sudo tee /etc/systemd/system/kube-apiserver.service
