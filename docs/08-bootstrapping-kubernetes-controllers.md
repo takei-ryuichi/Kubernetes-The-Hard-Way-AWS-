@@ -134,7 +134,7 @@ echo ${INTERNAL_IP}
 kube-apiserver.serviceのsystemdのユニットファイルを生成します。
 
 ```
-KUBERNETES_PUBLIC_ADDRESS=[事前確認の出力結果](#事前確認)
+KUBERNETES_PUBLIC_ADDRESS=[事前確認の出力結果](https://github.com/takei-ryuichi/Kubernetes-The-Hard-Way-AWS-/blob/main/docs/15-cleanup.md)
 ```
 
 ```
