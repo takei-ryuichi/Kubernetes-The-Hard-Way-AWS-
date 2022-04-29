@@ -44,8 +44,6 @@ Kubernetes The Hard Wayでは、コンポーネント間のエンドツーエン
 ## **目次**
 ---
 
-<br>
-
 <nav>　
     <ul>　　
         <li><a href=https://github.com/takei-ryuichi/Kubernetes-The-Hard-Way-AWS-/blob/main/docs/01-prerequisites.md target=”_blank”>01-前提条件</a>
