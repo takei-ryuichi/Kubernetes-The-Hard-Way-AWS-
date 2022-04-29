@@ -46,6 +46,9 @@ aws configure set default.region $AWS_REGION
 
 オリジナルのチュートリアルでも推奨の設定として記載されています。
 この手順をスキップしてもKubernetesクラスタの動作に影響はありません。
+
+<br>
+
 https://github.com/kelseyhightower/kubernetes-the-hard-way/blob/master/docs/01-prerequisites.md#running-commands-in-parallel-with-tmux
 
 <br>
